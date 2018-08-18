@@ -1,0 +1,9 @@
+C:\Users\Naka\source\repos\SoccerStats\SoccerStats\bin\Debug\data.txt
+C:\Users\Naka\source\repos\SoccerStats\SoccerStats\bin\Debug\SoccerStats.exe.config
+C:\Users\Naka\source\repos\SoccerStats\SoccerStats\bin\Debug\SoccerStats.exe
+C:\Users\Naka\source\repos\SoccerStats\SoccerStats\bin\Debug\SoccerStats.pdb
+C:\Users\Naka\source\repos\SoccerStats\SoccerStats\obj\Debug\SoccerStats.csprojAssemblyReference.cache
+C:\Users\Naka\source\repos\SoccerStats\SoccerStats\obj\Debug\SoccerStats.csproj.CoreCompileInputs.cache
+C:\Users\Naka\source\repos\SoccerStats\SoccerStats\obj\Debug\SoccerStats.exe
+C:\Users\Naka\source\repos\SoccerStats\SoccerStats\obj\Debug\SoccerStats.pdb
+C:\Users\Naka\source\repos\SoccerStats\SoccerStats\bin\Debug\SoccerGameResults.csv

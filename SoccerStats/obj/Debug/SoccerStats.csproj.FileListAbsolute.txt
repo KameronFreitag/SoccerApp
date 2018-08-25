@@ -16,3 +16,7 @@ C:\Users\Naka\source\repos\SoccerStats\SoccerApp\SoccerStats\obj\Debug\SoccerSta
 C:\Users\Naka\source\repos\SoccerStats\SoccerApp\SoccerStats\obj\Debug\SoccerStats.csproj.CoreCompileInputs.cache
 C:\Users\Naka\source\repos\SoccerStats\SoccerApp\SoccerStats\obj\Debug\SoccerStats.exe
 C:\Users\Naka\source\repos\SoccerStats\SoccerApp\SoccerStats\obj\Debug\SoccerStats.pdb
+C:\Users\Naka\source\repos\SoccerStats\SoccerApp\SoccerStats\bin\Debug\players.json
+C:\Users\Naka\source\repos\SoccerStats\SoccerApp\SoccerStats\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Naka\source\repos\SoccerStats\SoccerApp\SoccerStats\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Naka\source\repos\SoccerStats\SoccerApp\SoccerStats\obj\Debug\SoccerStats.csproj.CopyComplete
